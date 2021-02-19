@@ -1,0 +1,6 @@
+{
+  "extends": "tsconfigs/nodejs-executable",
+  "include": [
+    "**/*.ts",
+  ]
+}
